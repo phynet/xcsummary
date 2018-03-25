@@ -30,6 +30,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6F3041082068019E009E4908 /* Template copy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "Template copy.html"; sourceTree = "<group>"; };
 		A723D1D61E128315000F0F65 /* SummaryTemplate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SummaryTemplate.html; sourceTree = "<group>"; };
 		A7B461D31E00171C002B13B0 /* xcsummary */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = xcsummary; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7BC741E1E0052640072AD47 /* NSArrayAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSArrayAdditions.h; sourceTree = "<group>"; };
@@ -135,6 +136,7 @@
 				A7BC74301E0052640072AD47 /* ActivityTemplateWithoutImage.html */,
 				A7BC74341E0052640072AD47 /* TestCaseTemplate.html */,
 				A7BC74351E0052640072AD47 /* TestCaseTemplateFailed.html */,
+				6F3041082068019E009E4908 /* Template copy.html */,
 				A7BC74331E0052640072AD47 /* Template.html */,
 				A723D1D61E128315000F0F65 /* SummaryTemplate.html */,
 			);
